@@ -1,0 +1,13 @@
+*Provide digits in BookID
+*BookID must be Unique
+*Provide AuthorName
+*Provide BookName
+*Select Category
+*Select Genre
+*Select Language
+*Select Year
+*Provides digits in price
+After providing all the details press add button to store records 
+Click display to view all the record
+To search the books click on searchbooks and then select the category in which the book you want to sort out 
+In case of searching booking on the basis of price you provide the price in the input box
